@@ -6,7 +6,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class TestCadena{
-    solu bla = new solu();
+    cadena bla = new cadena();
     @Test
     public void prueba1(){
         System.out.println("Estoy en prueba ");
